@@ -1,0 +1,5 @@
+packages:
+  - "packages/main"
+  # - "packages/microapp-vue2-order"
+  - "packages/microapp-vue3-product"
+  - "packages/shared"
