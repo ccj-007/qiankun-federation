@@ -24,7 +24,6 @@ module.exports = {
           "./Order.vue": "./src/components/Order.vue",
         },
         filename: "remoteEntry.js",
-        shared: ["vue"],
       }),
     ],
   },
